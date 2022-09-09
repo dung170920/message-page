@@ -7,3 +7,5 @@ Link design: https://dribbble.com/shots/17742253-Messenger-Dashboard
 Link front-end: https://message-page.netlify.app/
 
 Link back-end: https://message-page.herokuapp.com/
+
+Reference: https://www.youtube.com/watch?v=MJzbJQLGehs&t=1s
